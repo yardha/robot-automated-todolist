@@ -21,4 +21,6 @@ Deleting Task
 Finishing To Do List
     Type Multiple Tasks
     Finishing Multiple Tasks
-    Clear All Completed Tasks
+
+Close To Do List
+    Close Website
